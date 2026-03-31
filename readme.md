@@ -20,4 +20,4 @@ Steps
      or
       source .venv/bin/activate
 3. Install the required packages using the command:
-   pip install -r requirements.txth
+   pip install -r requirements.txt
